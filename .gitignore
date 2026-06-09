@@ -1,0 +1,11 @@
+samples/
+Dox/
+core/__pycache__/
+.env/
+*.pyc
+
+.vscode/
+
+*.wav
+*.png
+*.jpg

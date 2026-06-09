@@ -5,7 +5,3 @@ core/__pycache__/
 *.pyc
 
 .vscode/
-
-*.wav
-*.png
-*.jpg

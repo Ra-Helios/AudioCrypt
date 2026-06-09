@@ -240,7 +240,7 @@ During decoding, this header is verified before reconstruction begins.
 ---
 
 ## 📸 Screenshots
-Screenshots for referance
+Screenshots for reference
 
 ### Encoding
 

@@ -240,8 +240,7 @@ During decoding, this header is verified before reconstruction begins.
 ---
 
 ## 📸 Screenshots
-
-Add screenshots here after deployment.
+Screenshots for referance
 
 ### Encoding
 
